@@ -1,9 +1,12 @@
 (Espacio para los badges de MATLAB Online y File Exchange)
 
-# (Adicione aquí el Titulo de la Actividad de Enseñanza)
+# Estimación de volumen perdido en un evento de fuga en un contenedor de combustibles
 
 ## Autor
-Adicione su nombre y afiliación
+Rodolfo Salazar Peña
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Campus Guadalajara
+
 
 ## Resumen de la actividad
 Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
